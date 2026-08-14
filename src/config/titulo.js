@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Elaboración de alimento balanceado para aves de corral'

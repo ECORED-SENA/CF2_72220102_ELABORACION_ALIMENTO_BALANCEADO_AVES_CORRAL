@@ -19,37 +19,40 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+      tema: 'Unidades de medida, medición y pesaje en la elaboración de alimento balanceado para aves de corral',
       titulo: 'Cuestionario',
-      introduccion: '<b>Objetivo:</b> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+      introduccion:
+        '<b>Objetivo:</b> identificar los conceptos clave relacionados con las unidades de medida, la medición, el pesaje, los instrumentos, el registro de información y el control de errores durante la elaboración de alimento balanceado para aves de corral.',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Cuál es la principal finalidad de las unidades de medida en la elaboración de alimento balanceado?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto:
+                'Garantizar la precisión en la dosificación de los ingredientes.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Disminuir el tamaño de las instalaciones productivas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Reducir el número de trabajadores disponibles.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Modificar el comportamiento natural de las aves.',
               esCorrecta: false,
             },
           ],
@@ -58,28 +61,29 @@ export default {
         },
         {
           id: 2,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Qué aplicación permite verificar las cantidades entregadas por los proveedores?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Preparación de mezclas con ingredientes diversos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Recepción de insumos para controlar cantidades.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Control sanitario de las instalaciones avícolas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Manejo de residuos durante la producción diaria.',
               esCorrecta: false,
             },
           ],
@@ -88,28 +92,29 @@ export default {
         },
         {
           id: 13,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Qué característica de las unidades de medida permite obtener resultados uniformes en diferentes procesos?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Incremento del volumen de producción diaria.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Reducción del número de materias primas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Estandarización de las mediciones realizadas.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Disminución del consumo de alimento.',
               esCorrecta: false,
             },
           ],
@@ -118,29 +123,30 @@ export default {
         },
         {
           id: 4,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Qué propiedad permite comprobar la validez de las mediciones mediante instrumentos calibrados?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Comparabilidad entre diferentes procesos productivos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Trazabilidad de todos los registros técnicos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Utilidad operativa para planificar actividades.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Verificabilidad de las mediciones obtenidas.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -148,28 +154,29 @@ export default {
         },
         {
           id: 5,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            'Pregunta 5	¿Cuál es la unidad más utilizada para expresar el peso de materias primas?	',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Opción a)	Litros y mililitros para líquidos.	',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Pascal y bar para presión.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Gramos, kilogramos y toneladas.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Litros por minuto y metros.',
               esCorrecta: false,
             },
           ],
@@ -178,28 +185,29 @@ export default {
         },
         {
           id: 6,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Qué tipo de medida determina el espacio ocupado por una sustancia?	',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Peso utilizado en las formulaciones.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Volumen empleado para líquidos diversos.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Caudal presente en tuberías hidráulicas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Presión aplicada sobre superficies.',
               esCorrecta: false,
             },
           ],
@@ -208,29 +216,30 @@ export default {
         },
         {
           id: 7,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Qué instrumento se utiliza para medir pequeños volúmenes de líquidos con mayor exactitud?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Cinta métrica para espacios físicos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Báscula destinada a grandes cargas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Jarra utilizada para líquidos comunes.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Probeta o cilindro graduado.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -238,29 +247,29 @@ export default {
         },
         {
           id: 8,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto: '¿Cuál es la función principal del caudalímetro?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Registrar el peso del alimento elaborado.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Controlar la temperatura del almacenamiento.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Medir la presión del sistema hidráulico.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Determinar el caudal de agua en las tuberías.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -268,28 +277,28 @@ export default {
         },
         {
           id: 9,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto: '¿Qué debe verificarse antes de iniciar el proceso de pesaje?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'La edad de las aves del lote.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'La cantidad de residuos existentes.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'La calibración y el nivel del equipo.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'La humedad del ambiente externo.',
               esCorrecta: false,
             },
           ],
@@ -298,28 +307,29 @@ export default {
         },
         {
           id: 10,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Qué acción se realiza antes de adicionar el ingrediente al recipiente?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Retirar el lote del almacenamiento general.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Realizar la tara del recipiente vacío.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Incrementar el tiempo de mezclado total.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Cambiar la formulación establecida previamente.',
               esCorrecta: false,
             },
           ],
@@ -328,28 +338,29 @@ export default {
         },
         {
           id: 11,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Qué información fortalece la trazabilidad del proceso de producción?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'La temperatura ambiental diaria.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'La velocidad del viento exterior.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'El registro de la fecha y la hora.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'La ubicación geográfica de la granja.',
               esCorrecta: false,
             },
           ],
@@ -358,28 +369,29 @@ export default {
         },
         {
           id: 12,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Qué dato permite comparar el valor esperado con el realmente obtenido?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Nombre completo del proveedor registrado.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Cantidad programada y cantidad real medida.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Ubicación física del almacenamiento interno.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Número de trabajadores del proceso.',
               esCorrecta: false,
             },
           ],
@@ -388,28 +400,29 @@ export default {
         },
         {
           id: 13,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Cuál es una consecuencia de utilizar una balanza sin calibrar?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Mayor duración del almacenamiento.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Incremento del espacio disponible.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Sobredosificación o subdosificación de ingredientes.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Disminución automática del consumo.',
               esCorrecta: false,
             },
           ],
@@ -418,28 +431,29 @@ export default {
         },
         {
           id: 14,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            'Pregunta 14	¿Qué error ocurre cuando no se realiza la tara del recipiente?	',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Se incrementa la humedad del alimento.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'El peso del recipiente se suma al ingrediente.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Se reduce el tiempo de mezcla establecido.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'El agua pierde presión durante el suministro.',
               esCorrecta: false,
             },
           ],
@@ -448,28 +462,28 @@ export default {
         },
         {
           id: 15,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto: '¿Qué puede ocasionar la confusión entre gramos y kilogramos?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Mayor eficiencia del proceso productivo.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Disminución del desgaste de equipos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Errores importantes en la formulación nutricional.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Incremento de la ventilación del área.',
               esCorrecta: false,
             },
           ],
@@ -478,29 +492,29 @@ export default {
         },
         {
           id: 16,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto: '¿Qué práctica previene la confusión entre materias primas?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Reducir la frecuencia del mantenimiento.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Incrementar la velocidad del pesaje.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Cambiar continuamente los recipientes.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Identificar correctamente los insumos antes del pesaje.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -508,28 +522,29 @@ export default {
         },
         {
           id: 17,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Qué actividad corresponde al paso final del proceso de medición y pesaje?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Verificar nuevamente la formulación.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Registrar la cantidad programada.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Limpiar los equipos y dejarlos preparados.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Clasificar nuevamente las materias primas.',
               esCorrecta: false,
             },
           ],
@@ -538,28 +553,28 @@ export default {
         },
         {
           id: 18,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto: '¿Qué unidad se utiliza normalmente para expresar el caudal?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Kilogramos por tonelada producida.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Litros por minuto (L/min).',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Mililitros por kilogramo mezclado.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Pascal por segundo trabajado.',
               esCorrecta: false,
             },
           ],
@@ -568,28 +583,29 @@ export default {
         },
         {
           id: 19,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Qué finalidad tiene el registro de observaciones durante la medición?	',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Reducir el tamaño de las bodegas.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Eliminar el control documental existente.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto: 'Aportar información útil para el análisis técnico.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Incrementar la velocidad del mezclado.',
               esCorrecta: false,
             },
           ],
@@ -598,29 +614,31 @@ export default {
         },
         {
           id: 20,
-          texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+          texto:
+            '¿Cuál es el principal beneficio del control de errores en medición y pesaje?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Disminuir la cantidad de registros técnicos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Reducir el número de equipos utilizados.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
+              texto: 'Incrementar el tiempo de almacenamiento.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
-              esCorrecta: false,
+              texto:
+                'Garantizar la calidad del alimento y la trazabilidad del proceso.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
