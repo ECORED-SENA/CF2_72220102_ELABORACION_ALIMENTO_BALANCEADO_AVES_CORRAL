@@ -200,7 +200,7 @@
               .row(titulo="Insumos de limpieza")
                 p.mb-4 Incluyen agua, detergentes, jabones, cepillos, escobas, paños, esponjas y rasquetas. Su función es retirar suciedad, polvo, grasa y residuos de alimento presentes en equipos, herramientas y superficies.
               .row(titulo="Equipos de apoyo para la limpieza")
-                p.mb-4 Comprenden baldes, mangueras, hidro lavadoras, recipientes de lavado y otros implementos que facilitan la aplicación de agua y detergentes, así como la remoción de residuos.
+                p.mb-4 Comprenden baldes, mangueras, hidrolavadoras, recipientes de lavado y otros implementos que facilitan la aplicación de agua y detergentes, así como la remoción de residuos.
               .row(titulo="Insumos de desinfección")
                 p.mb-4 Corresponden a productos autorizados como hipocloritos, amonios cuaternarios, yodóforos, peróxidos u otros desinfectantes aprobados para uso pecuario. Se aplican sobre superficies previamente limpias para reducir la presencia de microorganismos.
       //- Fin Accordion 1
@@ -236,7 +236,7 @@
                  img(src='@/assets/curso/temas/t4/tarjeta04_1.png')
               .col-lg-7.order-2.mb-3.mb-lg-0
                 h4 Lectura de las indicaciones del producto
-                p Antes de utilizar un detergente o desinfectante se deben revisar las instrucciones relacionadas con el tipo de superficie, el método de aplicación, el tiempo de contacto, las incompatibilidades y las medidas de seguridad, garantizando un uso adecuado del producto.
+                p Antes de utilizar un detergente o desinfectante, se deben revisar las instrucciones relacionadas con el tipo de superficie, el método de aplicación, el tiempo de contacto, las incompatibilidades y las medidas de seguridad, garantizando un uso adecuado del producto.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-1
                 figure

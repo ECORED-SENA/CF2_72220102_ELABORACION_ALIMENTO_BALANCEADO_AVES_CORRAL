@@ -54,7 +54,7 @@
                 figure
                   img(src='@/assets/curso/temas/t1/tarjeta01_4.png')
               .col-lg-7.order-2.mb-3.mb-lg-0
-                h4 Garantiza que cada ingrediente se incorpore en la proporción establecida, favoreciendo la uniformidad, la estabilidad nutricional y la inocuidad del alimento balanceado.
+                h4 Suministro del alimento
                 p Permite calcular la cantidad de alimento requerida por ave, lote y etapa productiva, optimizando el consumo y disminuyendo pérdidas por subalimentación, sobrealimentación o desperdicio.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-1
@@ -69,7 +69,7 @@
                   img(src='@/assets/curso/temas/t1/tarjeta01_6.png')
               .col-lg-7.order-2.mb-3.mb-lg-0
                 h4 Registros productivos
-                p Registros productivos	Proporciona información cuantificable para analizar indicadores como consumo de alimento, peso corporal, producción de huevos, conversión alimenticia y rendimiento de los lotes, facilitando el seguimiento técnico y la toma de decisiones.	 
+                p Proporciona información cuantificable para analizar indicadores como consumo de alimento, peso corporal, producción de huevos, conversión alimenticia y rendimiento de los lotes, facilitando el seguimiento técnico y la toma de decisiones.	 
       //- Fin Slideshow
       p(data-aos="fade-left") El uso sistemático de las unidades de medida permite estandarizar las actividades relacionadas con la elaboración de alimento balanceado, fortalecer el control de calidad y generar información confiable para la gestión de la producción. Su aplicación también favorece la trazabilidad de los procesos y contribuye al cumplimiento de las buenas prácticas avícolas, al asegurar que cada lote de alimento se prepare de manera consistente y conforme con las especificaciones técnicas.
       Separador
@@ -87,7 +87,7 @@
           .col-lg-9
             AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
               .row(titulo="Estandarización")
-                  p.mb-4 Estandarización	Garantiza que una unidad de medida conserve el mismo valor en cualquier lugar y momento, siempre que se empleen instrumentos calibrados y procedimientos adecuados. Esta condición permite reproducir una misma formulación nutricional con resultados uniformes en diferentes lotes de producción.
+                  p.mb-4 Garantiza que una unidad de medida conserve el mismo valor en cualquier lugar y momento, siempre que se empleen instrumentos calibrados y procedimientos adecuados. Esta condición permite reproducir una misma formulación nutricional con resultados uniformes en diferentes lotes de producción.
               .row(titulo="Precisión")
                   p.mb-4 Corresponde al grado de exactitud con el que se realiza una medición. Su importancia aumenta cuando se dosifican ingredientes que participan en pequeñas cantidades, como vitaminas, minerales traza, enzimas, pigmentantes o medicamentos, donde variaciones mínimas pueden modificar la composición del alimento.
               .row(titulo="Comparabilidad")
@@ -120,7 +120,7 @@
             .flex-shrink-0.mb-3.mb-lg-0.pe-lg-4
               img(src='@/assets/curso/temas/bg/lineas.svg', style="width: 80px")
             .flex-grow-1.text-center.text-lg-start
-              p.mb-0 Durante la elaboración de alimento balanceado para aves de corral se utilizan diferentes tipos de medida para controlar las materias primas, los procesos de producción y las condiciones de suministro. Cada una permite cuantificar una magnitud específica y aporta información necesaria para garantizar la calidad del alimento, la eficiencia operativa y el bienestar de las aves. A continuación, se presentan los principales tipos de medida empleados en la producción avícola y su aplicación dentro del proceso de elaboración del alimento balanceado:
+              p.mb-0 Durante la elaboración de alimento balanceado para aves de corral, se utilizan diferentes tipos de medida para controlar las materias primas, los procesos de producción y las condiciones de suministro. Cada una permite cuantificar una magnitud específica y aporta información necesaria para garantizar la calidad del alimento, la eficiencia operativa y el bienestar de las aves. A continuación, se presentan los principales tipos de medida empleados en la producción avícola y su aplicación dentro del proceso de elaboración del alimento balanceado:
       //- Pestanas horizontales
       .container.tarjeta.tarjeta--blanca.p-4.p-md-5(data-aos="fade-right")
           TabsC.color-acento-contenido.mt-1
@@ -281,7 +281,7 @@
             .row.align-items-center
               .col-12.col-lg
                 h4 Limpieza y preparación para el siguiente uso
-                p Al finalizar la actividad se retiran los residuos, se limpian los equipos y utensilios utilizados y se dejan en condiciones adecuadas para el siguiente proceso, contribuyendo a la bioseguridad y al mantenimiento de los instrumentos.
+                p Al finalizar la actividad, se retiran los residuos, se limpian los equipos y utensilios utilizados y se dejan en condiciones adecuadas para el siguiente proceso, contribuyendo a la bioseguridad y al mantenimiento de los instrumentos.
               .col-12.col-lg-auto.mt-3.mt-lg-0
                 figure
                   img(src='@/assets/curso/temas/t1/tarjeta04_7.png').img125

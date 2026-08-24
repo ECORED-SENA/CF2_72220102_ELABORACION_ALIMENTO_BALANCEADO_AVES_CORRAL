@@ -155,13 +155,13 @@ export default {
         {
           id: 5,
           texto:
-            'Pregunta 5	¿Cuál es la unidad más utilizada para expresar el peso de materias primas?	',
+            '¿Cuál es la unidad más utilizada para expresar el peso de materias primas?	',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Opción a)	Litros y mililitros para líquidos.	',
+              texto: 'Litros y mililitros para líquidos.	',
               esCorrecta: false,
             },
             {

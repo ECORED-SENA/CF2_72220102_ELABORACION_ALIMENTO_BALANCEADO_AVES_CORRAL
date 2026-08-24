@@ -108,7 +108,7 @@
               .row(titulo="Fecha de ingreso y vencimiento")
                 p.mb-4 Facilita la aplicación del sistema PEPS (primero en entrar, primero en salir), favoreciendo la rotación del inventario y evitando el uso de materiales vencidos o con pérdida de calidad.
               .row(titulo="Tipo de insumo")
-                p.mb-4 Organiza los materiales según su función, como energéticos, proteicos, minerales, vitamínicos, aditivos o líquidos, facilitando su almacenamiento y utilización durante la formulación.s
+                p.mb-4 Organiza los materiales según su función, como energéticos, proteicos, minerales, vitamínicos, aditivos o líquidos, facilitando su almacenamiento y utilización durante la formulación.
       //- Fin Accordion 1
       //- Inicio Accordion 2
       .bg--img_03.mt-5
@@ -120,7 +120,7 @@
               .row(titulo="Nivel de riesgo o sensibilidad")
                 p.mb-4 Identifica materiales que requieren condiciones especiales de conservación, como productos higroscópicos, aditivos, medicamentos o microingredientes que demandan un manejo más controlado.
               .row(titulo="Compatibilidad con la formulación")
-                p.mb-4 Verifica que cada insumo corresponda a la formulación nutricional vigente, evitando sustituciones inadecuadas y errores durante la preparación del alimento balanceado
+                p.mb-4 Verifica que cada insumo corresponda a la formulación nutricional vigente, evitando sustituciones inadecuadas y errores durante la preparación del alimento balanceado.
           .col-lg-3.order-1.order-lg-2.mb-5.mb-lg-0
             figure(data-aos="zoom-in")
               img(src="@/assets/curso/temas/t3/img3.png", alt="").img400.m-auto
@@ -191,7 +191,7 @@
       .row
         #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 3.4 Técnicas de manipulación y uso de insumos
-      p(data-aos="fade-left") La manipulación de insumos comprende las actividades realizadas desde su retiro del almacenamiento hasta su incorporación al proceso de elaboración del alimento balanceado. Estas operaciones deben desarrollarse siguiendo procedimientos que preserven la calidad de los materiales, reduzcan el riesgo de contaminación y garanticen la correcta dosificación de cada ingrediente. La manipulación y el uso seguro de los insumos durante el proceso productivo requiere la aplicación de las siguientes prácticas:      
+      p(data-aos="fade-left") La manipulación de insumos comprende las actividades realizadas desde su retiro del almacenamiento hasta su incorporación al proceso de elaboración del alimento balanceado. Estas operaciones deben desarrollarse siguiendo procedimientos que preserven la calidad de los materiales, reduzcan el riesgo de contaminación y garanticen la correcta dosificación de cada ingrediente. La manipulación y el uso seguro de los insumos durante el proceso productivo requieren la aplicación de las siguientes prácticas:      
       //- Inicio Accordion 1
       .bg--img_03.mt-5
         .row.justify-content-center
@@ -288,7 +288,7 @@
       .row
         #t_3_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 3.6 Métodos de disposición de insumos no aptos o sobrantes
-      p(data-aos="fade-left") Durante las actividades de recepción, almacenamiento, manipulación y uso de los insumos pueden identificarse materiales que no cumplen las condiciones requeridas para incorporarse al proceso productivo o sobrantes que deben manejarse de forma controlada. La disposición adecuada de estos materiales evita riesgos para la inocuidad del alimento, protege la bioseguridad de la granja y contribuye al cumplimiento de la normatividad sanitaria y ambiental. La disposición de insumos no aptos o sobrantes requiere la aplicación de las siguientes acciones de manejo:
+      p(data-aos="fade-left") Durante las actividades de recepción, almacenamiento, manipulación y uso de los insumos, pueden identificarse materiales que no cumplen las condiciones requeridas para incorporarse al proceso productivo o sobrantes que deben manejarse de forma controlada. La disposición adecuada de estos materiales evita riesgos para la inocuidad del alimento, protege la bioseguridad de la granja y contribuye al cumplimiento de la normatividad sanitaria y ambiental. La disposición de insumos no aptos o sobrantes requiere la aplicación de las siguientes acciones de manejo:
       //- Slideshow
       .bg-full-width.bg-fondo-slider.mb-5
         .p-4.p-md-5

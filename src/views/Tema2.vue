@@ -29,7 +29,7 @@
                   img(src='@/assets/curso/temas/t2/tarjeta01_2.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Equipos de preparación y transformación
-                p Comprenden molinos, mezcladoras, dosificadores y tolvas. Permiten triturar, homogenizar, mezclar y acondicionar los ingredientes hasta obtener una mezcla uniforme.
+                p Comprenden molinos, mezcladoras, dosificadores y tolvas. Permiten triturar, homogeneizar, mezclar y acondicionar los ingredientes hasta obtener una mezcla uniforme.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
@@ -92,7 +92,7 @@
             .flex-shrink-0.mb-3.mb-lg-0.pe-lg-4
               img(src='@/assets/curso/temas/bg/lineas.svg', style="width: 80px")
             .flex-grow-1.text-center.text-lg-start
-              p.mb-0 La selección de equipos y herramientas influye directamente en la eficiencia de la elaboración de alimento balanceado, la calidad del producto y la seguridad de las operaciones. Por esta razón, antes de adquirir o utilizar cualquier recurso es necesario evaluar diferentes criterios técnicos que permitan determinar si responde a las necesidades del sistema de producción y a las condiciones de trabajo de la granja. Los principales criterios para seleccionar equipos y herramientas destinados a la elaboración de alimento balanceado para aves de corral son los siguientes:
+              p.mb-0 La selección de equipos y herramientas influye directamente en la eficiencia de la elaboración de alimento balanceado, la calidad del producto y la seguridad de las operaciones. Por esta razón, antes de adquirir o utilizar cualquier recurso, es necesario evaluar diferentes criterios técnicos que permitan determinar si responde a las necesidades del sistema de producción y a las condiciones de trabajo de la granja. Los principales criterios para seleccionar equipos y herramientas destinados a la elaboración de alimento balanceado para aves de corral son los siguientes:
       //- Inicio Accordion
       .bg--img_03.mt-5
         .row.justify-content-center
@@ -157,7 +157,7 @@
                   img(src='@/assets/curso/temas/t2/tarjeta02_2.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Verificar el estado del equipo
-                p Antes de iniciar la operación se revisan cables, tornillos, estabilidad, limpieza, calibración, guardas de seguridad y posibles daños visibles. Esta inspección permite detectar anomalías antes de que afecten el proceso o la seguridad del trabajador.
+                p Antes de iniciar la operación, se revisan cables, tornillos, estabilidad, limpieza, calibración, guardas de seguridad y posibles daños visibles. Esta inspección permite detectar anomalías antes de que afecten el proceso o la seguridad del trabajador.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure

@@ -153,7 +153,7 @@
                       .bg-color-10.p-3.text-center.text-white.fw-bold
                         p.mb-0 Observaciones de manejo
                       .p-4.text-center.d-flex.align-items-center.justify-content-center.flex-grow-1
-                        p.mb-0 Incluye información adicional relacionada con el almacenamiento, el uso o cualquier condición special requerida para conservar el alimento.
+                        p.mb-0 Incluye información adicional relacionada con el almacenamiento, el uso o cualquier condición especial requerida para conservar el alimento.
             p(data-aos="fade-left") La información registrada en el rótulo hace posible mantener la trazabilidad del alimento, ya que permite conocer su origen, identificar el lote de producción, establecer el recorrido dentro de la granja y determinar el destino final de cada ración. Esta información facilita la toma de decisiones cuando es necesario investigar una desviación en la calidad o realizar acciones correctivas.
             Separador
             //- Inicio Tema6.3
