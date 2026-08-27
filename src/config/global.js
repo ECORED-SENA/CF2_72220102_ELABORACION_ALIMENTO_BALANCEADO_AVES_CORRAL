@@ -313,7 +313,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/72220102_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -492,7 +492,7 @@ export default {
     {
       referencia:
         'International Labour Organization. (2011). Seguridad y salud en la agricultura: Repertorio de recomendaciones prácticas.',
-      link: 'https://www.ilo.org/es/publications/seguridad-y-salud-en-la-agricultura-repertorio-de-recomendaciones-practicas',
+      link: 'https://www.ilo.org/es/resource/otros/seguridad-y-salud-en-la-agricultura',
     },
     {
       referencia:
