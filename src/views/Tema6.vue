@@ -363,7 +363,7 @@
                   h4.mb-2.text-white Manejo de residuos y disposición final.
                   p.mb-0.text-white Se invita a leer el documento <b>Manejo de residuos y disposición final</b>, donde se aborda el manejo integral de los residuos generados durante la elaboración de alimento balanceado para aves de corral. 
                 .mt-3.mt-lg-0.ps-lg-4            
-                  a.btn.btn-custom-download.w-buttons.d-flex.align-items-center.justify-content-center.p-3(:href="obtenerLink('/downloads/Anexos/Anexo_01_Manejo_Residuos.pdf')" target="_blank")
+                  a.btn.btn-custom-download.w-buttons.d-flex.align-items-center.justify-content-center.p-3(:href="obtenerLink('/downloads/Anexos/Anexo_01_Manejo_Residuos_Disposición_Final.pdf')" target="_blank")
                     span.fw-bold.me-2 Descargar
                     i.fas.fa-file-download
 </template>
