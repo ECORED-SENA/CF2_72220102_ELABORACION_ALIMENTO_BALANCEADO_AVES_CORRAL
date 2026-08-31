@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="97.999" viewBox="0 0 98 97.999">
+  <g id="Group_1292965" data-name="Group 1292965" transform="translate(-802.781 -1967)">
+    <g id="Group_1204180" data-name="Group 1204180" transform="translate(-1 -5.016)">
+      <g id="Group_1204143" data-name="Group 1204143" transform="translate(-67.331 1694.852)">
+        <g id="Group_1188789" data-name="Group 1188789" transform="translate(871.113 277.164)">
+          <path id="Path_1243039" data-name="Path 1243039" d="M41.05,0h0a41.05,41.05,0,0,1,0,82.1h0a41.05,41.05,0,0,1,0-82.1Z" transform="translate(7.951 7.949)" fill="#f6db96"/>
+          <rect id="Rectangle_400907" data-name="Rectangle 400907" width="88.438" height="88.437" rx="44.218" transform="translate(4.782 4.781)" fill="none"/>
+          <g id="Group_1098742" data-name="Group 1098742" transform="translate(0)">
+            <g id="Rectangle_400898" data-name="Rectangle 400898" transform="translate(0)" fill="none" stroke="#fff" stroke-width="2" opacity="0.859">
+              <rect width="98" height="97.999" rx="48.999" stroke="none"/>
+              <rect x="1" y="1" width="96" height="95.999" rx="47.999" fill="none"/>
+            </g>
+            <g id="Rectangle_400907-2" data-name="Rectangle 400907" transform="translate(0)" fill="none" stroke="#0f1f33" stroke-linecap="round" stroke-width="2">
+              <rect width="98" height="97.999" rx="48.999" stroke="none"/>
+              <rect x="1" y="1" width="96" height="95.999" rx="47.999" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1335773" data-name="Group 1335773" transform="translate(10498.178 4699.054)">
+      <path id="Path_1532304" data-name="Path 1532304" d="M42.229,41.865c-1.965-3.023.424-6.335.424-17.919,0-11.725-2.182-15.26-.84-17.944,1.2-1.7,1.591-6-2.265-6H3.658C-.2,0,.192,4.306,1.393,6,2.735,8.685.554,12.22.554,23.945c0,11.584,2.389,14.9.424,17.919-2.26,3.477-.126,6.026,1.625,6.026h38c1.751,0,3.885-2.549,1.625-6.026" transform="translate(-9668 -2707)" fill="#a37f4b" stroke="#000" stroke-width="1" stroke-dasharray="80 5"/>
+      <line id="Line_4368" data-name="Line 4368" y1="20.923" transform="translate(-9646.397 -2686.519)" fill="#f29922" stroke="#000" stroke-width="1" stroke-dasharray="80 5"/>
+      <path id="Path_1532305" data-name="Path 1532305" d="M104.869,136.8a7.381,7.381,0,0,0-8.683-5.686s.04,8.362,8.683,5.686" transform="translate(-9751.266 -2820.413)" fill="#f29922" stroke="#000" stroke-width="1" stroke-dasharray="80 5"/>
+      <path id="Path_1532306" data-name="Path 1532306" d="M104.869,180.538a7.381,7.381,0,0,0-8.683-5.686s.04,8.362,8.683,5.686" transform="translate(-9751.266 -2858.276)" fill="#f29922" stroke="#000" stroke-width="1" stroke-dasharray="80 5"/>
+      <path id="Path_1532307" data-name="Path 1532307" d="M104.869,224.277a7.382,7.382,0,0,0-8.683-5.686s.04,8.362,8.683,5.686" transform="translate(-9751.266 -2896.14)" fill="#f29922" stroke="#000" stroke-width="1" stroke-dasharray="80 5"/>
+      <path id="Path_1532308" data-name="Path 1532308" d="M139.067,78.75c-5.975-4.8-2.748-10.08,0-11.44" transform="translate(-9785.464 -2765.269)" fill="#f29922" stroke="#000" stroke-width="1" stroke-dasharray="80 5"/>
+      <path id="Path_1532309" data-name="Path 1532309" d="M160.827,136.8a7.381,7.381,0,0,1,8.683-5.686s-.04,8.362-8.683,5.686" transform="translate(-9807.224 -2820.413)" fill="#f29922" stroke="#000" stroke-width="1" stroke-dasharray="80 5"/>
+      <path id="Path_1532310" data-name="Path 1532310" d="M160.827,180.538a7.381,7.381,0,0,1,8.683-5.686s-.04,8.362-8.683,5.686" transform="translate(-9807.224 -2858.276)" fill="#f29922" stroke="#000" stroke-width="1" stroke-dasharray="80 5"/>
+      <path id="Path_1532311" data-name="Path 1532311" d="M160.827,224.277a7.381,7.381,0,0,1,8.683-5.686s-.04,8.362-8.683,5.686" transform="translate(-9807.224 -2896.14)" fill="#f29922" stroke="#000" stroke-width="1" stroke-dasharray="80 5"/>
+      <path id="Path_1532312" data-name="Path 1532312" d="M160.827,78.75c5.975-4.8,2.748-10.08,0-11.44" transform="translate(-9807.224 -2765.269)" fill="#f29922" stroke="#000" stroke-width="1" stroke-dasharray="80 5"/>
+    </g>
+  </g>
+</svg>
